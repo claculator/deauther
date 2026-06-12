@@ -127,4 +127,4 @@ All tuneable constants live in `include/definitions.h`:
 
 ## License
 
-see `LICENSE` for details.
+GNU General Public License v3.0, see `LICENSE` for details.
